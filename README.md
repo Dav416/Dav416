@@ -1,8 +1,10 @@
 <!-- https://gprm.itsvg.in/ -->
-Acerca de mi:
+## Acerca de mi:
 Soy Desarrollador Fullstack con 4 años de experiencia construyendo y manteniendo soluciones tecnológicas corporativas en producción. Actualmente me desempeño como Asesor TIC en Portada Inmobiliaria S.A.S, donde he participado activamente en el diseño, desarrollo y evolución de un ecosistema CRM/ERP utilizado por tres empresas vinculadas, con más de 17 módulos funcionales que soportan procesos críticos como captaciones, comisiones, gestión contractual, SAGRILAFT, PQRS y más.
+
 Mi trabajo va más allá del desarrollo de software: he asumido roles en arquitectura de sistemas, integración de módulos mediante APIs REST, optimización de bases de datos, migraciones de datos con Python y Jupyter Notebook, despliegues en producción, soporte técnico, infraestructura de red y desarrollo web institucional. Dentro del equipo de sistemas soy el tercer referente técnico, acompañando a mis líderes y apoyando la formación de aprendices del área.
 Trabajo principalmente con PHP, Laravel, Javascript, Vue 3, Node.js, TypeScript, MySQL y Docker, con conocimiento en Python y herramientas de análisis de datos. Me encuentro finalizando mi formación como Tecnólogo en Análisis y Desarrollo de Software en el SENA, lo que refuerza mi compromiso con el crecimiento técnico constante.
+
 Me apasiona construir soluciones que generen impacto real en las operaciones del negocio, y busco seguir desarrollándome en entornos donde la tecnología sea un motor de transformación.
 
 ## 🌐 Socials:
